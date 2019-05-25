@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidArchitectures</string>
+
+    //titles
+    <string name = "titleForMVCActivity">MVC</string>
+    <string name = "titleForMVVMActivity">MVVM</string>
+    <string name = "titleForMVPActivity">MVP</string>
+
+    //buttons
+
+    <string name="buttonForMVCArchitecture">MVC</string>
+    <string name="buttonForMVPArchitecture">MVP</string>
+    <string name="buttonForMVVMArchitecture">MVVM</string>
+
+
+</resources>
